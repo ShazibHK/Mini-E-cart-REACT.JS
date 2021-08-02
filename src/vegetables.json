@@ -1,0 +1,40 @@
+ 
+[ 
+    { 
+    "name":"Potato", 
+    "id":1, 
+    "price":30, 
+    "available":14, 
+    "vendor":"Himachal Pvt Ltd", 
+    "category":"Vegetables",
+    "image":"https://cdn-a.william-reed.com/var/wrbm_gb_food_pharma/storage/images/publications/food-beverage-nutrition/nutraingredients.com/article/2020/05/07/study-potato-protein-a-winner-for-women/11369572-1-eng-GB/Study-Potato-protein-a-winner-for-women_wrbm_large.jpg"
+    }, 
+    { 
+    "name":"Banana", 
+    "id":2, 
+    "price":50, 
+    "available":12, 
+    "category":"Fruits",
+    "vendor": "Organic farms",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC8Aps5RGNBrSdsPcAXDRCNTh24iHK-rOyyA&usqp=CAU"
+    }, 
+    { 
+    "name":"Drumsticks", 
+    "id":3, 
+    "price":20, 
+    "available":0, 
+    "category":"Vegetables", 
+    "vendor":"Mallikarjuna farms",
+    "image":"https://5.imimg.com/data5/EQ/LA/JW/SELLER-52718678/green-drumstick-500x500.jpg"
+    }, 
+    { 
+    "name":"Orange", 
+    "id":4, 
+    "price":25, 
+    "available":44, 
+    "vendor":"Nagpur farms", 
+    "category":"Fruits" ,
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAymILqUyoI1vzvUgj3O0G1iPHHA58BcPJxA&usqp=CAU"
+    } 
+    ] 
+    
